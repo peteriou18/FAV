@@ -1,0 +1,96 @@
+
+
+h1 {
+
+  font-family: 'Dancing Script', cursive;
+  font-size: -200%
+}
+
+#polina { 
+
+  font-family: 'Droid Sans Mono', cursive;
+  font-weight:200; 
+  background: rgba(0,0,0,0.0);
+  color: white;
+  padding: 2rem;
+  width: 43%;
+  margin:2rem;
+  font-size: 1.2rem;
+  position:absolute;
+  z-index:2; 
+  right:60px; 
+  top:12em;
+}
+
+
+
+.img{
+  float: left ;
+  height: 400px;
+  line-height: 100px;
+  text-align: right; /* centrage horizontal d'un élément en-ligne */
+  border-style: solid;  
+  border-width: 5px;
+  color: red;
+  vertical-align: middle;
+}
+
+} 
+
+.container.wind{
+  float: left ;
+  height: 400px;
+  line-height: 400px;
+  color: #01A;
+  border-style: solid;  
+  border-width: 5px;
+  color: red;
+}
+
+.card.medium {
+  height: 340px;
+}
+
+footer.page-footer {
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #E82C0C;
+}
+
+.side-nav {
+  position: fixed;
+  width: 240px;
+  left: -105%;
+  top: 0;
+  margin: 0;
+  height: 100%;
+  height: calc(100% + 60px);
+  height: -moz-calc(100%);
+  padding-bottom: 60px;
+  background-color: #003673;
+  z-index: 999;
+  overflow-y: auto;
+  will-change: left;
+}
+
+.side-nav a {
+  color: #BDBDBD;
+  display: block;
+  font-size: 2rem;
+  height: 64px;
+  line-height: 64px;
+  padding: 0 15px;
+}
+
+
+.cd-top.cd-is-visible {
+  
+  visibility: hidden;
+  opacity: 0;
+  z-index: 3;
+}
+.cd-top.cd-fade-out {
+  
+  opacity: 0;
+  z-index: 3;
+}

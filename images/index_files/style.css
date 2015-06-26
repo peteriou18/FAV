@@ -1,0 +1,56 @@
+.navbar-fixed nav {
+  position: fixed;
+}
+
+
+nav .brand-logo.left {
+      left: 1rem;
+      padding: 0; }
+
+
+nav .brand-logo {
+  position: absolute;
+  color: #F9F9F9;
+  display: inline-block;
+  font-size: 2.1rem;
+  padding: 0;
+}
+
+nav ul a {
+  font-size: 1.1rem;
+  color: #F9F9F9;
+  display: block;
+  padding: 0 15px;
+}
+
+.box
+{
+  height: 500px;
+  width: auto;
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #3E4159;
+}
+
+video .row .col {
+  float: left;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-top: 0px;
+  padding-right: 0rem
+}
+
+
+
+.card .card-title {
+  color: #FFFFFF;
+  font-size: 24px;
+  font-weight: 300;
+}
+
+footer.page-footer {
+  margin-top: 0px;
+  padding-top: 0px;
+  background-color: #000000;
+}
