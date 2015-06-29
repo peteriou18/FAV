@@ -51,25 +51,6 @@ h1 {
   height: 340px;
 }
 
-{
-@media all and (min-device-width : 480px) 
-and (max-device-width : 1024px)
-and (orientation : landscape) { /* STYLES GO HERE */}
-
-/*#homevideo {
-background-image: url(images/char_home); */
-
-}
-
-}
-
-
-    /* Vos règles CSS pour les mobiles ici */
-
-
-
-}
-
 
 
 
