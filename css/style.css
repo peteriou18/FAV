@@ -24,6 +24,22 @@ h1 {
 
 
 
+@media screen and (max-width: 480px)
+{
+    #homevideo {
+
+     background-color: light-blue; 
+  
+
+
+    }
+
+
+
+}
+
+
+
 .img{
   float: left ;
   height: 400px;
@@ -50,8 +66,6 @@ h1 {
 .card.medium {
   height: 340px;
 }
-
-
 
 
 footer.page-footer {
