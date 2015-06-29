@@ -24,17 +24,10 @@ h1 {
 
 
 
-@media screen and (max-width: 480px)
-{
-    #homevideo {
-
-     background-color: light-blue; 
-  
 
 
-    }
-
-
+#body {
+     background-image: url("images/char_home.jpg");
 
 }
 
