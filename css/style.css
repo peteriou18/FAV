@@ -56,8 +56,8 @@ h1 {
 and (max-device-width : 1024px)
 and (orientation : landscape) { /* STYLES GO HERE */}
 
-#homevideo {
-background-image: url(images/char_home);
+/*#homevideo {
+background-image: url(images/char_home); */
 
 }
 
