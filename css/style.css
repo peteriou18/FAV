@@ -58,10 +58,10 @@ and (-webkit-min-device-pixel-ratio: 1)
 and (-webkit-min-device-pixel-ratio: 2)
 and (orientation : landscape) { /* STYLES GO HERE */}
 
-.row.video {
+#homevideo {
 background-image: url(images/char_home);
 
-
+}
 
 }
 
