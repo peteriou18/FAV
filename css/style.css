@@ -24,6 +24,15 @@ h1 {
 
 
 
+.s-network a {
+
+display: inline-block;
+color: rgba(255, 255, 255, 0.86);
+}
+
+
+
+
 
 .img{
   float: left ;
