@@ -22,11 +22,15 @@ h1 {
   top:12em;
 }
 
+.s-network li{
+  display: inline-block;
+  list-style: none;
+  margin-right: 5px;
 
+}
 
 .s-network a {
 
-display: inline-block;
 color: rgba(255, 255, 255, 0.86);
 }
 
