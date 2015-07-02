@@ -22,6 +22,15 @@ h1 {
   top:12em;
 }
 
+
+.fa-envelope-o {
+margin-right: 5px;  
+}
+
+.fa-mobile {
+margin-right: 5px;
+}
+
 .s-network li{
   display: inline-block;
   list-style: none;
