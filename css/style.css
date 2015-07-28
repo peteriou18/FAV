@@ -24,21 +24,22 @@
 
 
 .bancolor {
+  margin-bottom: 15px;
   background-color: rgba(3, 155, 229, 1);
-  height: 15%;
-  width: 100%;
-  color: white;
+  height: 30%;
+  width: auto;
   text-align: center;
-}
 
+}
 
 #bancolormarg {
-  margin: -0px;
-  padding-top: 10px; 
+  padding-top: 55px;
+  padding-bottom: 55px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: white;
+
 }
-
-
-
 
 /* footer custom */
 
