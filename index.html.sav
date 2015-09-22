@@ -1,0 +1,315 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="description" content="File Aux Vents est une &eacute;cole de char &agrave; voile en baie de somme avec une formule bi-place et mono-place réservation: 06 09 90 17 27"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+    <meta http-equiv="refresh" content="0; URL=http://fileauxvents.club/acceuil.html ">
+
+    <!-- Facebook Metatags Here -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="file aux vents &eacute;cole de char à voile" />
+    <meta property="og:site_name" content="File Aux Vents"/>
+    <meta property="og:url" content="http://fileauxvents.club" />
+    <meta property="og:image" content="http://fileauxvents.club/images/charhomeprofil.jpg" />
+    <meta property="og:description" content="File Aux Vents est une école de char à voile en baie de somme, elle propose une formule bi-place pour les baptêmes et une formule monoplace, 20Km de plage disponble pour évoluer avec des chars Seagull dernier cri" />
+
+    <!-- Twitter Metatags Here -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@fileauxvents">
+    <meta name="twitter:title" content="File Aux Vents est une école de char à voile en baie de somme - formule bi-place -formule monoplace">
+    <meta name="twitter:description" content="école de char à voile en baie de somme - 20Km de plage disponble pour évoluer avec des chars Seagull dernier cri">
+    <meta name="twitter:creator" content="@fileauxvents">
+    <meta name="twitter:image:src" content="http://fileauxvents.club/images/charhomeprofil.jpg">
+
+    <!-- Twitter Metatags Here -->
+    
+    <title>File aux vents - Ecole de char à voile</title>
+
+      <link rel="canonical" href="http://www.fileauxvents.club/" />
+
+      <!-- Materialize Core CSS -->      
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection">
+
+      <!-- CSS & Custom -->
+      <link type="text/css" rel="stylesheet" href="css/style.css" media="screen,projection">
+      <link type="text/css" rel="stylesheet" href="css/backtotop.css"  media="screen,projection">
+
+      <!-- Some Google fonts --> 
+      <link href='http://fonts.googleapis.com/css?family=Architects+Daughter|Dancing+Script:400,700' rel='stylesheet' type='text/css'>
+      <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono|Monoton' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+      
+      <!-- Let browser know website is optimized for mobile -->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    </head>
+
+    <!-- Begin Cookie Consent plugin by Silktide - http://silktide.com/cookieconsent -->
+    <script type="text/javascript">
+    window.cookieconsent_options = {"message":"This website uses cookies to ensure you get the best experience on our website","dismiss":"Got it!","learnMore":"More info","link":null,"theme":"dark-bottom"};
+    </script>
+
+    <script type="text/javascript" src="//s3.amazonaws.com/cc.silktide.com/cookieconsent.latest.min.js"></script>
+    <!-- End Cookie Consent plugin -->
+
+    <body>
+
+    
+    <!-- Including Bootstrap JS (with its jQuery dependency) so that dynamic components work -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
+
+      <!-- Navigation -->
+      <nav class="navbar-fixed" style="background: rgba(0, 0, 0, 0.3)" role="navigation">
+        <div class="nav-wrapper container"> <a id="logo-container" href="#" class="brand-logo left"></a>
+        
+          <ul <ul class="left hide-on-med-and-down">
+                <li><a href="#6" class="waves-effect waves-light btn orange darken-1" alt="reservation" title="char à voile">Réservation: 06 09 90 17 27</a></li>
+          </ul>
+          <ul class="right hide-on-med-and-down">
+              <li><a href="acceuil.html"><i class="mdi-action-home"></i></a></li>
+              <li><a href="meteo.html"><i class="mdi-file-cloud"></i></a></li>
+              <li><a href="#0">Blog</a></li>
+              <li><a href="#1">Faq</a></li>
+          </ul>
+
+          <ul id="nav-mobile" class="side-nav">
+              <li><a href="acceuil.html">Home</a></li>
+              <li><a href="#2">Blog</a></li>
+              <li><a href="#3">Faq</a></li>
+          </ul>
+          <a href="#" data-activates="nav-mobile" class="button-collapse"> <i class="mdi-navigation-menu"></i></a>
+        </div>
+      </nav>
+          
+<!--div class="section" style="padding-bottom: 0px; padding-top: 0px;"-->
+  <!--div class="row"-->
+    <div class="col l12" style="padding-right: 0px; padding-left: 0px; position:relative z-index:1;">
+    
+      <video class="hide-on-med-and-down" width="1000" height="800" style="width:100%;height:auto;" preload="" autoplay="true" loop="" muted="muted">
+      <source src="video/ipad.mp4" type="video/mp4"/>
+      <source src="video/fav01.webm" type="video/webm"/>
+      <source src="video/fav01.ogv" type="video/ogg"/>
+      </video>
+
+    </div>
+
+
+<div class="sdevice">
+
+  <img class="hide-on-large-only" style="width: 100%; height:auto;" src="images/charsmdevice.png" alt="char à voile bi-place"/>
+
+</div>
+
+<div id="polina">
+    <div class="right hide-on-med-and-down">
+      <h1 class="popo">File aux vents</h1>
+      <h3>Ecole de char à voile</h3>
+      <h4>06 09 90 17 27</h4>
+      <h5><b>"Essayez 3 fois la vitesse du vent"</b></h5>
+    </div>
+</div>
+ 
+      <div id="card_home">
+        <div class="col s12 m12 l12">
+          <div class="card-panel blue accent-2"> 
+            <div class="card-content white-text">
+              <img style="width: 100%" src="images/charhomeprofil.jpg" alt="char à voile bi-place"/>
+              <h2>Le SPOT<i class="mdi-content-flag"></i></h2> <h3>un des plus beau d'europe pour la pratique du char à voile.</h3>
+              <p class="flow-text"> <i>Plage du marquenterre</i> entre la baie d'authie et la baie de somme <i><b>(20km de plage)</b></i> patrimoine mondial de l'Unesco appelée aussi baie des phoques due à une grande concentration de phoques gris et veaux marins.
+              </p>
+
+            </div>
+          </div>
+        </div>
+      </div>    
+
+
+<!--
+
+<div class="section  blue-grey darken-4">
+  <div class="row"> 
+      <div class="col s12 m12 l3">
+          <div class="card medium">       
+            <div class="card-image waves-effect waves-block waves-light">
+              
+               <video preload="true" autoplay="true" loop="" muted="muted" style="height: 250px;">
+                    <source src="video/char_voile.mp4" type="video/mp4" />
+                    <source src="video/char_voile.webm" type="video/webm" />
+               </video> 
+            </div>
+            <div class="card-content indigo darken-1">
+              <span class="card-title activator">Formule Bi-place<i class="mdi-av-play-circle-outline right"></i></span>
+              
+            </div>
+          </div>       
+      </div>
+  
+  <div class="col s12 m12 l3">
+    <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="images/plage.jpg" style="height: 250px;">
+          </div>
+          
+          <div class="card-content indigo darken-2">
+          <span class="card-title activator">Formule Mono Place<i class="mdi-av-play-circle-outline right"></i>
+          </span>
+          </div>
+
+        <div class="card-reveal">
+          <span class="card-title indigo darken-2">Formule Mono Place<i class="mdi-navigation-close right"></i></span>
+          <p> <i>(par groupe de 6 personnes) : durée 3 heures</i> </p>
+          <p> <b>Tarif Adulte : 55 euros</b> </p>
+          <p> <b>Tarif enfant : 50 euros</b> </p>
+          <p> <b>Tarif Groupe : 06 61 00 22 12</b> </p>
+        </div>  
+      
+    </div>       
+  </div>
+
+      <div class="col s12 m12 l3">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="images/plage.jpg" style="height: 250px;" >
+          </div>
+
+          <div class="card-content indigo darken-3">
+          <span class="card-title activator ">Formule Baptême<i class="mdi-av-play-circle-outline right"></i></span>
+          </div>
+
+          <div class="card-reveal">
+          <span class="card-title indigo darken-3">Formule Baptême<i class="mdi-navigation-close right"></i></span>
+          <p> <i>(par groupe de 6 personnes) : durée 3 heures</i> </p>
+          <p> <b>Tarif Adulte : 55 euros</b> </p>
+          <p> <b>Tarif enfant : 50 euros</b> </p>
+          <p> <b>Tarif Groupe : 06 61 00 22 12</b> </p>
+        </div>  
+
+          </div>       
+        </div>
+
+      <div class="col s12 m12 l3">
+        <div class="card medium">
+          <div class="card-image waves-effect waves-block waves-light">
+              <img class="activator" src="images/plage.jpg" style="height: 250px;">
+          </div>
+
+
+          <div class="card-content indigo darken-4">
+          <span class="card-title activator">Formule <i>Perf</i><i class="mdi-av-play-circle-outline right"></i></span>
+          </div>
+
+          <div class="card-reveal">
+          <span class="card-title indigo darken-4">Formule <i>Perf</i><i class="mdi-navigation-close right"></i></span>
+          <p> <i>(par groupe de 6 personnes) : durée 3 heures</i> </p>
+          <p> <b>Tarif Adulte : 55 euros</b> </p>
+          <p> <b>Tarif enfant : 50 euros</b> </p>
+          <p> <b>Tarif Groupe : 06 61 00 22 12</b> </p>
+          </div>  
+
+
+          </div>       
+        </div>
+
+  </div>
+</div>
+
+<div class="section">
+  <div class="row">
+    <h2>  </h2> 
+  </div>
+</div>
+
+-->
+
+
+<footer class="page-footer">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">File aux vents</h5>
+
+                <ul class="footer-list">
+                  <li> <a class="grey-text text-lighten-4" href="">Contact</a>
+                  <li> <a class="grey-text text-lighten-4" href="">Blog</a>
+                  <li> <a class="grey-text text-lighten-4" href="">Presse</a>
+                </ul>
+
+
+              </div>
+              
+              
+                <div class="col l4 offset-l2 s12">
+                
+                  <ul>
+                  <li><a class="grey-text text-lighten-3" itemprop="tel" href="tel:06 09 90 17 27"> <i class="fa fa-mobile fa-2x"></i>06 09 90 17 27</a></li>
+                  <li><a class="grey-text text-lighten-3" itemprop="email" href="mailto:thierry.caron@fileauxvents.club"><i class="fa fa-envelope-o"></i>thierry.caron@fileauxvents.club</a></li>
+                  <li>
+                  </ul>
+               
+                  <ul class="s-network">
+                  <li><a target="_blank" href="https://www.facebook.com/fileauxvents.club"><i class="fa fa-facebook-official fa-3x"></i></a></li>
+                  <li><a target="_blank" href="https://twitter.com/fileauxvents"><i class="fa fa-twitter-square fa-3x"></i> </a></li>
+                  <li><a> <i class="fa fa-instagram fa-3x"></i> </a></li>
+                  <li><a> <i class="fa fa-youtube fa-3x"></i> </a></li>
+                  </ul>
+               
+
+                </div>
+              </div>
+            </div>
+          
+          <div class="footer-copyright">
+            <div class="container">
+            &copy; File aux vents 2015 Copyright 
+            <a class="grey-text text-lighten-4 right" href="http://www.mosphet.org">Mosphet.org</a>
+            </div>
+          </div>
+        </footer>
+
+
+        <a href="#7" class="cd-top cd-is-visible">Top</a>
+
+
+      <!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.js"></script>
+      <script type="text/javascript" src="js/init.js"></script>
+      <script type="text/javascript" src="js/back-to-top.js"></script>
+      
+
+      <script type="application/ld+json">
+         { "@context" : "http://schema.org",
+            "@type" : "Organization",
+            "name" : "Fileauxvents.club",
+            "url" : "http://fileauxvents.club/",
+            "sameAs" : [ "https://www.facebook.com/fileauxvents.club",
+            "https://twitter.com/fileauxvents"]
+          }
+      </script>
+
+
+
+    <!-- Google Analytics -->
+      <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64505275-1', 'auto');
+      ga('send', 'pageview');
+
+      </script>
+    <!-- End Google Analytics -->
+
+
+
+    </body>
+  </html>
+
