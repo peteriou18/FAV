@@ -2,3 +2,5 @@ User-agent: *
 Disallow: /css/
 Disallow: /font/
 Disallow: /js/
+
+Sitemap: http://www.fileauxvents.club/sitemap.xml
